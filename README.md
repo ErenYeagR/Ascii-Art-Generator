@@ -23,9 +23,9 @@ I watched the ACM workshop videos on ASCII Art Generator. Apart from the I inten
 For Pencil Sketch Generator i converted the image to gray image then the gray image is inverted and then i blurred it using Gaussian Blur and then inverted the blurred image again and used the knowledge until week 2 to convert it to ascii characters and returned it as the output.
 
 Requirements->>
-python 3.6
-cv2
-PIL
+python 3.6,
+cv2,
+PIL,
 numpy
 
 Resources and References Used->
